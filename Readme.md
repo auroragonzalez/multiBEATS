@@ -1,8 +1,6 @@
 # multiBEATS
 
-The original .mat data is stored in a separated folder named `data`. Each of the datasets will have their own folder. The datasets which we have work with are *Arabic Digits*, *AUSLAN*, *Character Trayectories*, *CMUsubject16*, *ECG*, *JapaneseVowels*, *LIbras* and *Wafer*.
-
-Mega link
+The original `.mat` data is stored in a separated folder named `data`. Each of the datasets will have their own folder. The datasets which we have work with are *Arabic Digits*, *AUSLAN*, *Character Trayectories*, *CMUsubject16*, *ECG*, *JapaneseVowels*, *LIbras* and *Wafer*, and they are prepared to download in the following Mega link: https://mega.nz/file/vf43USRJ#2VswQAk05ZmJdU1qr3c2f-XCr1EManFSVMWj5ENxCOk
 
 ## Preparing the multivariate time series, from .mat to .npy
 
