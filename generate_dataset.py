@@ -3,8 +3,9 @@ np.random.seed(1000)
 
 from scipy.io import loadmat
 
-conjunto = 'ArabicDigits'
-path = r"/home/aurorax/Git_repos/multiBEATS/data/"+ conjunto+ "/"
+conjunto = 'JapaneseVowels'
+
+path = r"/home/.../TimeSeries_Classification/data/"+ conjunto+ "/"
 
 ''' Load train set '''
 data_dict = loadmat(path + conjunto + ".mat")
